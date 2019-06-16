@@ -12,6 +12,7 @@ function callMe() {
  maybe ();
 
 function crazy() {
+  
   // fix the code in here:
 
   var thisIsCrazy = "hey!!!";
