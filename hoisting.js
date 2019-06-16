@@ -28,6 +28,7 @@ function sayMyName() {
   // fix the code in here:
   
   var name = "Cricky";
+  console.log(name);
 
   function sayMy() {
     var name = "Kristin";
